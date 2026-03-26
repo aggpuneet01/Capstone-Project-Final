@@ -123,8 +123,6 @@ Future work can focus on:
 
 ## Outline of Project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [[Link to notebook 1]()](https://github.com/aggpuneet01/Capstone-Project-Final/blob/main/Capstone_Project_Final.ipynb)
 
 ## Contact and Further Information
